@@ -110,6 +110,8 @@ El proyecto sigue el patrón ETL (Extract-Transform-Load), separando claramente 
 
 ---
 
+link del video: https://youtu.be/wH0quieo0ks
+
 ## 6. Referencias  
 
 - [Video tutorial sobre Spark en EMR](https://youtu.be/ZFns7fvBCH4)  
